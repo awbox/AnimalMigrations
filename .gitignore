@@ -1,0 +1,6 @@
+/venv
+.idea
+.mypycache
+/Animal/migrations/*
+/Event/migrations/*
+/Location/migrations/*
