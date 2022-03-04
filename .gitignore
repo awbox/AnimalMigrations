@@ -1,6 +1,11 @@
 /venv
 .idea
 .mypycache
+AnimalMigrations/__pycache__/*
 /Animal/migrations/*
 /Event/migrations/*
 /Location/migrations/*
+.pg_service.conf
+.pgpass
+env_var
+.envrc
